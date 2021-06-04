@@ -9,9 +9,9 @@
 
 ## Neue Wörter
 
-> Assoziation --> Cagrisim
-> Interpretation (interpretieren) --> yorum yorumlamak
-> Wahrscheinlichkeit --> olasilik
+> * Assoziation --> Cagrisim
+> * Interpretation (interpretieren) --> yorum yorumlamak
+> * Wahrscheinlichkeit --> olasilik
 
 
 ## das Kommunikationsquadrat   
