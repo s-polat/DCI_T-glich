@@ -1,6 +1,8 @@
 # SOFT SKILL 
 ## KOMINIKATION
 
+### "Man kann nicht **nicht** kommunizieren" Paul Watzlawick...
+
 * Beobachten
 * Gefühl
 * Bedürfnis
